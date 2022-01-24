@@ -1,0 +1,12 @@
+git config --global user.name "adrianocefet"
+git config --global user.email "adrianocefet@hotmail.com"
+
+git remote add origin https://github.com/adrianocefet/projetosono.git
+
+git push --set-upstream origin master
+
+
+
+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
+
+Adr1@n01
