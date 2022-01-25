@@ -5,7 +5,11 @@ git remote add origin https://github.com/adrianocefet/projetosono.git
 
 git push --set-upstream origin master
 
-
+git commit -am 'texto'
+git log --oneline
+git checkout
+git reset 81cdbc1
+git pull
 
 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
 
