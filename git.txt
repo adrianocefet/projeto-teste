@@ -14,3 +14,6 @@ git pull
 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
 
 Adr1@n01
+
+
+git commit -m "meu primeiro commit"
